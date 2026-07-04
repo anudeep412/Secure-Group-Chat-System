@@ -5,7 +5,7 @@ A Python reference implementation of a key establishment protocol that derives a
 
 [![Build](https://github.com/SushankYerva/E2EKeyEstablishmentProtocol/actions/workflows/CI.yml/badge.svg)](https://github.com/SushankYerva/E2EKeyEstablishmentProtocol/actions/workflows/CI.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-informational)
+
 
 ---
 
