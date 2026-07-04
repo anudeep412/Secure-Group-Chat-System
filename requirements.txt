@@ -1,0 +1,16 @@
+crypto==1.4.1
+cryptography==44.0.2
+pycparser==2.22
+pycryptodome==3.21.0
+pycryptodomex==3.21.0
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests==2.32.3
+rsa==4.9
+shellescape==3.8.1
+six==1.17.0
+tzdata==2025.1
+urllib3==2.3.0
+pytest>=8.1
+pytest-timeout>=2.1.0
+
