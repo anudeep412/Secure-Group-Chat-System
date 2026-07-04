@@ -1,5 +1,5 @@
 
-# 🔐 Three-Party Session Key Protocol (A–B–C)
+#  Three-Party Session Key Protocol (A–B–C)
 
 A Python reference implementation of a key establishment protocol that derives a mutually agreed session key between three entities A, B, and C. The session key then secures a group chat with **Confidentiality, Integrity, Availability**, and **Non-Repudiation**.
 
@@ -137,11 +137,11 @@ C → S → A,B : {M3}AES-GCM(K_ABC)
 
 Every transmitted message provides:
 
-- 🔒 **Confidentiality** through AES-256-GCM encryption.
-- ✅ **Integrity** through authenticated encryption and digital signatures.
-- 🔐 **Authentication** through certificate-based identity verification.
-- 📝 **Non-Repudiation** through RSA digital signatures.
-- ⚡ **Availability** by maintaining authenticated communication between all participating entities.
+-  **Confidentiality** through AES-256-GCM encryption.
+-  **Integrity** through authenticated encryption and digital signatures.
+-  **Authentication** through certificate-based identity verification.
+-  **Non-Repudiation** through RSA digital signatures.
+-  **Availability** by maintaining authenticated communication between all participating entities.
 
 ---
 
@@ -155,7 +155,7 @@ Every transmitted message provides:
 | Non-Repudiation | RSA Digital Signatures |
 | Availability | Trusted Authentication Server & Secure Communication Protocol |
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -169,7 +169,7 @@ tests/
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1) Install
 ```bash
