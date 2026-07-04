@@ -8,7 +8,7 @@ A Python reference implementation of a key establishment protocol that derives a
 
 ---
 
-## 🔄 Protocol Flow
+##  Protocol Flow
 
 The protocol establishes a mutually agreed session key between three participants (**A**, **B**, and **C**) through a trusted authentication server (**S**). Once the session key is established, all group communication is encrypted to ensure **Confidentiality**, **Integrity**, **Availability**, and **Non-Repudiation**.
 
